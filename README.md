@@ -1,4 +1,4 @@
-# seba-acuna
+# sebastianacunau
 
 Hola, mi nombre es Sebastián Acuña. Tengo 25 años y soy estudiante de Ingeniería Civil Matemática y Magíster en Ciencias de Datos en la Universidad de Chile. 
 
